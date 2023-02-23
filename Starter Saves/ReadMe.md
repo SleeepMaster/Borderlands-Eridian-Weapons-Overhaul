@@ -18,11 +18,11 @@ Each save contains **Mysterious Eridian Artifact** item.
 Use it to enable enemies to have a chance to drop Eridian items.
 You have to use it each time you load a save.
 
-## REQUIREMENTS ::
+## REQUIREMENTS
 
 These saves will not contain any new items unless you have **Eridian Weapons Overhaul** installed.
 
-## INSTALLATION ::
+## INSTALLATION
 
 Place save files into:
 ```
