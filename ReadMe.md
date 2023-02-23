@@ -10,6 +10,8 @@ I really love idea of alien guns in Borderlands, but it was really poorly execut
 
 This is the mod that lets you experience Eridian Weapons in their full glory!
 
+[You can download it here](https://github.com/SleeepMaster/Eridian-Weapons-Overhaul/releases/download/v1.1.3/Eridian.Weapons.Overhaul.rar).
+
 ## What exactly is wrong with vanilla Eridian weapons?
 
 - They slow you down by 20% when equiped
