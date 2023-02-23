@@ -1,0 +1,2 @@
+[General.Globals GlobalsDefinition]
+AttributePresentationTranslation="<font size="8">$NUMBER$ $CONSTRAINT$ $DESCRIPTION$</font>"
