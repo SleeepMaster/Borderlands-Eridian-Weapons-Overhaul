@@ -1,6 +1,5 @@
-![Eridian Weapons Overhaul](https://user-images.githubusercontent.com/26903692/220933230-54cdbd34-0a90-4d53-95d6-d2361e3445e0.png)
-
 # ERIDIAN WEAPONS OVERHAUL
+![Eridian Weapons Overhaul](https://user-images.githubusercontent.com/26903692/220933230-54cdbd34-0a90-4d53-95d6-d2361e3445e0.png)
 
 ### ***WARNING! THIS MOD DOES NOT WORK ON ENHANCED VERSION OF BORDERLANDS.***
 
